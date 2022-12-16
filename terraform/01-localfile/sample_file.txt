@@ -1,0 +1,1 @@
+This is Prasath. This text is written into a sample text file using local_file module in Terraform
